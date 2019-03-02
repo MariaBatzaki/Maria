@@ -1,4 +1,4 @@
-My title new
+My new title
 ========================================================
 author: Maria Batzaki
 date: 2-3-2019
