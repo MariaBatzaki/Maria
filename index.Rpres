@@ -28,9 +28,7 @@ Methods
 
 Proposed Analyses
 ========================================================
-
-- Pearson R correlation (association between trangender and suicide thoughts)
-
+Pearson R correlation (association between trangender and suicide thoughts)
 
 References 
 ========================================================
