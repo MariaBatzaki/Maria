@@ -23,13 +23,14 @@ Methods
 - H1: Transgender people have higher rates of suicidal thoughts
 - Data from Google Trends
 - Search for terms "suicide" and " transgender" (as a theme search)
-- Correlation between these two terms the last 5 years in United States
+- Correlation between these two terms in the last 5 years in United States
 
 
 Proposed Analyses
 ========================================================
 
 - Pearson R correlation (association between trangender and suicide thoughts)
+
 
 References 
 ========================================================
