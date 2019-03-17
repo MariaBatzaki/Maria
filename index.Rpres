@@ -28,7 +28,7 @@ Methods
 Proposed Analyses
 ========================================================
 
-- Bullet 1 
+- Pearson R correlation
 - Bullet 2  
 - Bullet 3
 
