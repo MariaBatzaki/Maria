@@ -29,6 +29,9 @@ Methods
 Proposed Analyses
 ========================================================
 Pearson R correlation (association between trangender and suicide thoughts)
+<small> quantitative data from Google Trends with results between 1 and -1</small>
+<small> 1 means perfectly possitive correlation and -1 perfectly negative correlation</small>
+
 
 References 
 ========================================================
@@ -40,3 +43,8 @@ References
  Wolford-Clevenger, C., Frantell, K., Smith, P. N., Flores, L. Y., & Stuart, G. L. (2018). Correlates of suicide ideation and behaviors among transgender people: A systematic review guided by ideation-to-action theory. Clinical psychology review.
 
 
+========================================================
+
+Any questions?
+
+![alt text here](abad3a3f12891a7fa3b5319f8d073b24.png)
