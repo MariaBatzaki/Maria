@@ -25,24 +25,19 @@ Methods
 - Search for terms "suicide" and " transgender" (as a theme search)
 - Correlation between these two terms the last 5 years in United States
 
+
 Proposed Analyses
 ========================================================
 
-- Pearson R correlation
-- Bullet 2  
-- Bullet 3
+- Pearson R correlation (association between trangender and suicide thoughts)
 
 References 
 ========================================================
 
- Peterson, C. M., Matthews, A., Copps‐Smith, E., & Conard, L. A. (2017).   Suicidality, self‐harm, and body dissatisfaction in transgender adolescents and emerging adults with gender dysphoria. Suicide and Life‐Threatening Behavior, 47(4), 475-482.
+ Peterson, C. M., Matthews, A., Copps<U+2010>Smith, E., & Conard, L. A. (2017).   Suicidality, self<U+2010>harm, and body dissatisfaction in transgender adolescents and emerging adults with gender dysphoria. Suicide and Life<U+2010>Threatening Behavior, 47(4), 475-482.
  
  Perez-Brumer, A., Hatzenbuehler, M. L., Oldenburg, C. E., & Bockting, W. (2015). Individual-and structural-level risk factors for suicide attempts among transgender adults. Behavioral Medicine, 41(3), 164-171.
  
  Wolford-Clevenger, C., Frantell, K., Smith, P. N., Flores, L. Y., & Stuart, G. L. (2018). Correlates of suicide ideation and behaviors among transgender people: A systematic review guided by ideation-to-action theory. Clinical psychology review.
 
 
-Slide With Plot
-========================================================
-
-![plot of chunk unnamed-chunk-1](index-figure/unnamed-chunk-1-1.png)

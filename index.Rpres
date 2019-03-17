@@ -25,12 +25,11 @@ Methods
 - Search for terms "suicide" and " transgender" (as a theme search)
 - Correlation between these two terms the last 5 years in United States
 
+
 Proposed Analyses
 ========================================================
 
-- Pearson R correlation
-- Bullet 2  
-- Bullet 3
+- Pearson R correlation (association between trangender and suicide thoughts)
 
 References 
 ========================================================
@@ -42,9 +41,3 @@ References
  Wolford-Clevenger, C., Frantell, K., Smith, P. N., Flores, L. Y., & Stuart, G. L. (2018). Correlates of suicide ideation and behaviors among transgender people: A systematic review guided by ideation-to-action theory. Clinical psychology review.
 
 
-Slide With Plot
-========================================================
-
-```{r, echo=FALSE}
-plot(cars)
-```
