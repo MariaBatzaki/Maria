@@ -1,49 +1,48 @@
-My presentation
+Suicidal thoughts among transgender people
 ========================================================
 author: Maria Batzaki
-date: 4-3-2019
+date: 18-3-2019
 autosize: true
+font-family: 'Helvetica'
+
 
 Introduction
 ========================================================
-Suicidal attempt to transgender people   
+
+
+- 1/4 of transgender youth -> at least 1 suicidal attempt (Paterson, Matthews,Copps-Smith & Conard, 2017)
+
+- over 30% -> lifetime suicide attempts (Perez-Brumer, Hatzenbuehler, Oldenburg & Bockting, 2015)
+
+- Transgender people are at high risk for suicide ideation, attempts, and deaths (Wolford-Clavenger, Frantell, Smith, Flores & Stuart, 2018) 
 
 
 
 Methods
 ========================================================
-
-
-
+- H1: Transgender people have higher rates of suicidal thoughts
+- Data from Google Trends
+- Search for terms "suicide" and " transgender" (as a theme search)
+- Correlation between these two terms the last 5 years in United States
 
 Proposed Analyses
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
-
-- Bullet 1
-- Bullet 2
+- Bullet 1 
+- Bullet 2  
 - Bullet 3
 
-Slide With Code
+References 
 ========================================================
 
+ Peterson, C. M., Matthews, A., Copps‐Smith, E., & Conard, L. A. (2017).   Suicidality, self‐harm, and body dissatisfaction in transgender adolescents and emerging adults with gender dysphoria. Suicide and Life‐Threatening Behavior, 47(4), 475-482.
+ 
+ Perez-Brumer, A., Hatzenbuehler, M. L., Oldenburg, C. E., & Bockting, W. (2015). Individual-and structural-level risk factors for suicide attempts among transgender adults. Behavioral Medicine, 41(3), 164-171.
+ 
+ Wolford-Clevenger, C., Frantell, K., Smith, P. N., Flores, L. Y., & Stuart, G. L. (2018). Correlates of suicide ideation and behaviors among transgender people: A systematic review guided by ideation-to-action theory. Clinical psychology review.
 
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
 
 Slide With Plot
 ========================================================
 
-![plot of chunk unnamed-chunk-2](index-figure/unnamed-chunk-2-1.png)
+![plot of chunk unnamed-chunk-1](index-figure/unnamed-chunk-1-1.png)
