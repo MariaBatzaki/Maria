@@ -1,1 +1,2 @@
-# Maria this is 
+# This is maria's readme
+# It contains projects information.
